@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Cookies JS</title>
-<link src="JS">  
+<link src="https://code.jquery.com/jquery-3.3.1.min.js">  
   <script>
   //function to set a cookie value
 function setCookie(cname, cvalue, exdays) {
